@@ -29,11 +29,11 @@ https://ocslab.hksecurity.net/Datasets/carchallenge2020
 
 <br>
 
-## CAN FD INTRUSION DATASET
+## AUTOMOTIVE ETHERNET INTRUSION DATASET
 https://ocslab.hksecurity.net/Datasets/automotive-ethernet-intrusion-dataset 
 
 <br>
 
-## AUTOMOTIVE ETHERNET INTRUSION DATASET
+## CAN FD INTRUSION DATASET
 https://ocslab.hksecurity.net/Datasets/can-fd-intrusion-dataset 
 
